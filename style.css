@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.logo{
+    text-align: center;
+}
+.login-page{
+display: flex;
+justify-content: center;
+padding:10px 10px;
+width:100%;
+margin:auto;
+font-family:  "Amazon Ember, Arial,sans-serif";
+}
+.bold{
+    font-weight: bold;
+}
+.for{
+    color:#0D1282;
+}
+.color-change{
+    color:#0D1282;
+ 
+}
+form{
+    
+    padding:20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.input input{
+    font-size: 25px;
+    width:100%;
+    
+}
+.input input:focus{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    outline-color: #fdbb2d;
+    border: none;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+   
+  
+}
+.input-se input{
+    font-size: 25px;
+    width:100%;
+   
+}
+.input-se input:focus{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+outline-color: #fdbb2d;
+border: none;
+}
+
+.button button{
+    font-size: 15px;
+   background-color: gold;
+    text-align: center;
+    width: 100%;
+    padding:10px 20px;
+    margin-top: 20px;
+    border: none;
+   
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.button{
+    margin-top: 10px;
+}
+.para{
+    margin-top: 15px;
+}
+select{
+    border:none;
+   
+}
+.but button {
+    font-size: 15px;
+   background-image: linear-gradient(to top, #cfd9df 0%, 100%);;
+     text-align: center;
+     width: 100%;
+     padding:10px 20px;
+     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.but{
+    margin-top: 15px;
+}
+.signin{
+    padding-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.email{
+    padding-bottom: 5px;
+}
+.input{
+    padding-bottom: 15px;
+    text-decoration: none;
+    box-shadow: 2px;
+}
+.radio{
+    margin-top: 15px;
+}
+.new{
+    margin-top: 15px;
+    text-align: center;
+}
